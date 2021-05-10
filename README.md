@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rohit</h1>
+<h3 align="center">Enthusiast about Tech and want to Learn Everything</h3>
 
-<!--
-**Rohit19060/Rohit19060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right"
+    src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'
+    width="200">
 
-Here are some ideas to get you started:
+- 🦁 Welcome to **[King Technologies](https://kingtechnologies.in "King Tech")**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏮 I’m currently working on **[Youtube](https://www.youtube.com/channel/UCBkOLsuxGJJRVyV2UIK9alQ?sub_confirmation=1 "Thanks for Visiting")**
+
+- 🌱 I’m currently learning **Kotlin**
+
+- 🎊 I’m looking to collaborate on **[Project Initiator](https://github.com/king-technologies/Project_Initiator "Project Initiator")**
+
+- 💬 Ask me about Anything **Tech** Related
+
+- ⚡ Fun fact **I am Iron Man!**
+
+## Contact me
+
+<p align="center">
+<a href="mailto:rohitjain19060@gmail.com?subject=Hi%20from%20Github" title="Gmail"><img src="./assets/images/Gmail.png" alt="rohit19060"  /></a>
+<a href="https://twitter.com/Rohit_Jain19060" title="Twitter"><img src="./assets/images/Twitter.png" alt="rohit19060"  /></a>
+<a href="https://rohit19060.hashnode.dev/" title="Hashnode"><img src="./assets/images/Hashnode.png" alt="rohit19060" /></a>
+<a href="https://www.instagram.com/king_rohit_jain/" title="Instagram"><img src="./assets/images/Instagram.png" alt="rohit19060"  /></a>
+<a href="https://dev.to/rohit19060" title="Dev"><img src="./assets/images/Dev.png" alt="rohit19060"  /></a>
+<a href="https://www.linkedin.com/in/rohit19060/" title="LinkedIn"><img src="./assets/images/Linkedin.png" alt="rohit19060"  /></a>
+</p>
+
+<p align="center"><a href="https://github.com/Rohit19060?tab=repositories" title="Profile"><img src="https://github-readme-stats.vercel.app/api?username=rohit19060&show_icons=true&locale=en" alt="rohit19060" /></a></p>
