@@ -18,6 +18,9 @@ Initiator")**
 
 - ⚡ Fun fact **I am Iron Man!**
 
+<h1></h1>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Rohit19060&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit19060"/></p>
 <h2 align="center">🌟 Socials 🌟</h2>
 
 <p align="center">
@@ -40,3 +43,12 @@ Initiator")**
         <img src="https://github-readme-stats.vercel.app/api?username=rohit19060&show_icons=true&locale=en"
             alt="Github Stats" /></a>
 </p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit19060" alt="jeandre-jpg" /></p>
+
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ in India</p>
