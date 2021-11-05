@@ -39,11 +39,21 @@ Initiator")**
     <a href="https://www.linkedin.com/in/rohit19060/" title="LinkedIn">
         <img src="./assets/images/Linkedin.svg" alt="LinkedIn" width="60" /></a>
 </p>
-<p align="center"><a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
-        <img src="https://github-readme-stats.vercel.app/api?username=rohit19060&show_icons=true&locale=en"
-            alt="Github Stats" /></a>
+<p align="center">
+    <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
+        <img src="https://github-readme-stats.vercel.app/api?username=rohit19060&show_icons=true&theme=graywhite&border_radius=30&border_color=aaa" alt="Github Stats" />
+    </a>
 </p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit19060" alt="Rohit19060" /></p>
+<p align="center">
+    <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit19060&theme=graywhite&border_radius=30&border_color=aaa" alt="Rohit19060" />
+   </a>
+</p>
+<p align="center">
+    <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit19060&layout=compact&langs_count=10&theme=graywhite&border_radius=30&border_color=aaa" alt="Github Stats" />
+    </a>
+</p>
 
 <h2 align="center">🤝 Support</h2>
 
