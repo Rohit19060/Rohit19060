@@ -51,7 +51,12 @@ Initiator")**
 </p>
 <p align="center">
     <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit19060&layout=compact&langs_count=10&theme=graywhite&border_radius=30&border_color=aaa" alt="Github Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit19060&layout=compact&langs_count=10&theme=graywhite&border_radius=30&border_color=aaa&custom_title=Rohit%27s%20Most%20Used%20Langauges&include_all_commits=true&count_private=true" alt="Github Stats" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rohit19060&show_icons=true&theme=graywhite&border_radius=30&border_color=aaa&custom_title=This%20Week%27s%20Stats&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats" />
     </a>
 </p>
 
