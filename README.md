@@ -20,14 +20,13 @@ Initiator")**
 
 <h1></h1>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Rohit19060&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit19060"/></p>
+<!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=Rohit19060&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit19060"/></p> -->
+
 <h2 align="center">🌟 Socials 🌟</h2>
 
 <p align="center">
-    <a href="https://g.dev/rohitjain" title="Developer Profile">
-        <img src="./assets/images/Gdev.svg" alt="Gmail" width="110" /></a>
-    <a href="mailto:rohitjain19060@gmail.com?subject=Hi%20from%20Github" title="Gmail">
-        <img src="./assets/images/Gmail.svg" alt="Gmail" width="75" /></a>
+    <a href="https://www.linkedin.com/in/rohit19060/" title="LinkedIn">
+        <img src="./assets/images/Linkedin.svg" alt="LinkedIn" width="60" /></a>
     <a href="https://www.instagram.com/king_rohit_jain/" title="Instagram">
         <img src="./assets/images/Instagram.svg" alt="Instagram" width="60" /></a>
     <a href="https://twitter.com/Rohit_Jain19060" title="Twitter">
@@ -36,29 +35,29 @@ Initiator")**
         <img src="./assets/images/Hashnode.svg" alt="Hashnode" width="60" /></a>
     <a href="https://dev.to/rohit19060" title="Dev.to">
         <img src="./assets/images/Dev.svg" alt="Dev.to" width="60" /> </a>
-    <a href="https://wa.me/message/2BFKBEIG53U6H1" title="Whatsapp">
-        <img src="./assets/images/Whatsapp.svg" alt="Whatsapp" width="60"> </a>
-    <a href="https://www.linkedin.com/in/rohit19060/" title="LinkedIn">
-        <img src="./assets/images/Linkedin.svg" alt="LinkedIn" width="60" /></a>
+    <a href="https://g.dev/rohitjain" title="Developer Profile">
+        <img src="./assets/images/Gdev.svg" alt="Gmail" width="105" /></a>
+
 </p>
 <p align="center">
     <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
-        <img src="https://github-readme-stats.vercel.app/api?username=rohit19060&show_icons=true&theme=graywhite&border_color=aaa&custom_title=My%20GitHub%20Stats" alt="Github Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=rohit19060&show_icons=true&theme=graywhite&border_color=aaa&custom_title=My%20GitHub%20Stats&border_radius=25" alt="Github Stats" />
     </a>
+
 </p>
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit19060&theme=graywhite&border_color=aaa" alt="Rohit19060" />
    </a>
-</p>
+</p> -->
 <p align="center">
     <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit19060&layout=compact&langs_count=10&theme=graywhite&border_color=aaa&custom_title=My%20Most%20Used%20Langauges&include_all_commits=true&count_private=true" alt="Github Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rohit19060&show_icons=true&theme=graywhite&border_color=aaa&custom_title=This%20Week%27s%20Stats&include_all_commits=true&count_private=true&layout=compact&border_radius=25" alt="Github Stats" />
     </a>
 </p>
 <p align="center">
-    <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rohit19060&show_icons=true&theme=graywhite&border_color=aaa&custom_title=This%20Week%27s%20Stats&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats" />
+<a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit19060&layout=compact&langs_count=8&theme=graywhite&border_color=aaa&custom_title=Most%20Used%20Langauges&include_all_commits=true&count_private=true&border_radius=25" alt="Github Stats" />
     </a>
 </p>
 
