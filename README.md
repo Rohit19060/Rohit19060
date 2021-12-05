@@ -3,7 +3,7 @@
 
 <img align="right"
     src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'
-    width="190">
+    width="180">
 
 - 🦁 Welcome to **[King Technologies](https://kingtechnologies.in "King Tech")**
 
@@ -18,10 +18,7 @@ Initiator")**
 
 - ⚡ Fun fact **I am Iron Man!**
 
-<h1></h1>
-
 <!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=Rohit19060&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit19060"/></p> -->
-
 <h2 align="center">🌟 Socials 🌟</h2>
 
 <p align="center">
