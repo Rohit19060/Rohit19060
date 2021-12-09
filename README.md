@@ -3,7 +3,7 @@
 
 <img align="right"
     src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'
-    width="180">
+    width="170">
 
 - 🦁 Welcome to **[King Technologies](https://kingtechnologies.in "King Tech")**
 
@@ -19,21 +19,21 @@ Initiator")**
 - ⚡ Fun fact **I am Iron Man!**
 
 <!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=Rohit19060&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit19060"/></p> -->
-<h2 align="center">🌟 Socials 🌟</h2>
+<h3 align="center">🌟 Socials 🌟</h3>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/rohit19060/" title="LinkedIn">
-        <img src="./assets/images/Linkedin.svg" alt="LinkedIn" width="60" /></a>
+        <img src="./assets/images/Linkedin.svg" alt="LinkedIn" width="40" /></a>
     <a href="https://www.instagram.com/king_rohit_jain/" title="Instagram">
-        <img src="./assets/images/Instagram.svg" alt="Instagram" width="60" /></a>
+        <img src="./assets/images/Instagram.svg" alt="Instagram" width="40" /></a>
     <a href="https://twitter.com/Rohit_Jain19060" title="Twitter">
-        <img src="./assets/images/Twitter.svg" alt="Twitter" width="60" /></a>
+        <img src="./assets/images/Twitter.svg" alt="Twitter" width="40" /></a>
     <a href="https://rohit19060.hashnode.dev/" title="Hashnode">
-        <img src="./assets/images/Hashnode.svg" alt="Hashnode" width="60" /></a>
+        <img src="./assets/images/Hashnode.svg" alt="Hashnode" width="40" /></a>
     <a href="https://dev.to/rohit19060" title="Dev.to">
-        <img src="./assets/images/Dev.svg" alt="Dev.to" width="60" /> </a>
+        <img src="./assets/images/Dev.svg" alt="Dev.to" width="40" /> </a>
     <a href="https://g.dev/rohitjain" title="Developer Profile">
-        <img src="./assets/images/Gdev.svg" alt="Gmail" width="105" /></a>
+        <img src="./assets/images/Gdev.svg" alt="Gmail" width="70" /></a>
 
 </p>
 <p align="center">
