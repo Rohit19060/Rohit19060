@@ -18,7 +18,7 @@ Initiator")**
 
 - ⚡ Fun fact **I am Iron Man!**
 
-<!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=Rohit19060&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit19060"/></p> -->
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Rohit19060&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit19060"/></p>
 <h2 align="center">🌟 Socials 🌟</h2>
 <br/>
 
@@ -67,17 +67,17 @@ Initiator")**
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit19060&border_radius=0" alt="Rohit19060" width="49%"/>
         </a>
 </p>
- 
-<p align="center">
+
+<!-- <p align="center">
     <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rohit19060&langs_count=24&show_icons=true&custom_title=This%20Week%27s%20Stats&include_all_commits=true&count_private=true&border_radius=0" alt="Github Stats" width="49%"/>
     </a>
     <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit19060&langs_count=8&custom_title=Most%20Used%20Langauges&include_all_commits=true&count_private=true&border_radius=0" alt="Github Stats" width="49%" />
     </a>
-</p>
+</p> -->
 
-<h2 align="center">🤝 Support</h2>
+<h2 align="center">🤝 Support 🤝</h2>
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
