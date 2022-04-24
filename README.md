@@ -43,8 +43,6 @@ Initiator")**
 
 [Send FCM Notifiactions](https://rohit19060.github.io/Send_FCM_Notifications/): Notify User using FCM Server Key and Device Token
 
-[Share Note](https://sleepy-peak-88767.herokuapp.com/): Share Small Notes
-
 [Github Repos](https://rohit19060.github.io/Github-API/): Get all the user repo by Github Username
 
 [World Clock](https://rohit19060.github.io/World-Clock-Converter/): Check Time Based on the Other Countries Time
@@ -52,8 +50,6 @@ Initiator")**
 [Typing Master](https://kingtechnologies.in/Typing%20Master): Typing Master for Touch Typing Practice
 
 [Store Bookmarks](https://rohit19060.github.io/bookmark-store/): Store Bookmark Temporarily
-
-[Element Based Game](https://powerful-woodland-97962.herokuapp.com/): Guessing Game by Choosing Element
 
 <br/>
 <h2 align="center">🤍 Stats 🤍</h2>
