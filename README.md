@@ -81,5 +81,5 @@ Initiator")**
 </p>
 <p align="center">Made with ❤️ in India</p>
 
-![Rohit's Github Contribution](https://github.com/Rohit19060/Rohit19060/blob/output/github-snake-dark.gif?raw=true?raw=true#gh-dark-mode-only)
+![Rohit's Github Contribution](https://github.com/Rohit19060/Rohit19060/blob/output/github-snake-dark.gif?raw=true#gh-dark-mode-only)
 ![Rohit's Github Contribution](https://github.com/Rohit19060/Rohit19060/blob/output/github-snake.gif?raw=true#gh-light-mode-only)
