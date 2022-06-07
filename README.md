@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">Enthusiast about Tech and want to Learn Everything</h3>
 
-<img align="right" src='./assets/images/GitHubskills.svg' width="230">
+<img align="right" src='./assets/images/GitHubskills.svg' width="200">
 
 - 🦁 Welcome to **[King Technologies](https://kingtechnologies.in "King Tech")**
 
