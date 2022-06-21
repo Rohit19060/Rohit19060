@@ -81,7 +81,8 @@ Device Token
 </p>
 <details>
   <summary>Trophies</summary>
-<a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
+    <p  align="center">
+    <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
         <img src="https://github-profile-trophy.vercel.app/?username=Rohit19060&theme=onedark&column=3&margin-w=15&margin-h=15" alt="Rohit19060"
             width="49%" />
     </a>
