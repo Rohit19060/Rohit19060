@@ -63,7 +63,30 @@ Device Token
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit19060&border_radius=0" alt="Rohit19060"
             width="49%" />
     </a>
+    <!-- <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohit19060&theme=radical&hide_border=true" alt="Rohit19060"
+            width="49%" />
+    </a> -->
+    <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
+        <img src="https://activity-graph.herokuapp.com/graph?username=Rohit19060&theme=react-dark&hide_border=true&custom_title=Activity%20Graph" alt="Rohit19060"
+            width="49%" />
+    </a>
+    <!-- <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohit19060&repo=flutter_experiments" alt="Rohit19060"
+            width="49%" />
+    </a>  <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
+        <img src="https://metrics.lecoq.io/rohit19060?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" alt="Rohit19060"
+            width="49%" />
+    </a> -->
 </p>
+<details>
+  <summary>Trophies</summary>
+<a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
+        <img src="https://github-profile-trophy.vercel.app/?username=Rohit19060&theme=onedark&column=3&margin-w=15&margin-h=15" alt="Rohit19060"
+            width="49%" />
+    </a>
+    </p>
+</details>
 
 <!-- <p align="center">
     <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
