@@ -17,8 +17,6 @@ Initiator")**
 
 - ⚡ Fun fact **I am Iron Man!**
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Rohit19060&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit19060" /></p>
 <h2 align="center">🌟 Socials 🌟</h2>
 <br />
 <p align="center">
@@ -78,6 +76,10 @@ Device Token
         <img src="https://metrics.lecoq.io/rohit19060?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" alt="Rohit19060"
             width="49%" />
     </a> -->
+</p>
+<p align="center">
+<img src="https://wakatime.com/badge/user/133bdcbb-6ca0-4954-a8b6-36ff42dca033.svg">
+<img src="https://komarev.com/ghpvc/?username=Rohit19060&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit19060" />
 </p>
 <details>
   <summary>Trophies</summary>
