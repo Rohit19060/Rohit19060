@@ -78,8 +78,10 @@ Device Token
     </a> -->
 </p>
 <p align="center">
-<img src="https://wakatime.com/badge/user/133bdcbb-6ca0-4954-a8b6-36ff42dca033.svg">
+<a href="https://wakatime.com/@rohit19060"><img src="https://wakatime.com/badge/user/133bdcbb-6ca0-4954-a8b6-36ff42dca033.svg"></a>
+<a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
 <img src="https://komarev.com/ghpvc/?username=Rohit19060&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit19060" />
+</a>
 </p>
 <details>
   <summary>Trophies</summary>
