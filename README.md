@@ -37,7 +37,7 @@ Initiator")**
 <h2 align="center">🚀 Useful Links 🚀</h2>
 <br />
 
-[Send FCM Notifiactions](https://rohit19060.github.io/Send_FCM_Notifications/): Notify User using FCM Server Key and
+[Send FCM Notifications](https://rohit19060.github.io/Send_FCM_Notifications/): Notify User using FCM Server Key and
 Device Token
 
 [Github Repos](https://rohit19060.github.io/Github-API/): Get all the user repo by Github Username
