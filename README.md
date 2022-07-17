@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Guys! Hoping you are having a great day/Night.</h1>
-<h3 align="center">Text: 🔥 Enthusiast about Tech and want to Learn Everything</h3>
+<h3 align="center">Fact: 🔥 Enthusiast about Tech and want to Learn Everything</h3>
 
 <img align="right" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="200">
 
