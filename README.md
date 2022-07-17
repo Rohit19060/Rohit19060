@@ -41,10 +41,10 @@ Initiator")**
 <h2 align="center">🚀 Super Projects 🚀</h2>
 <br />
 
+
 [Project Initiator](https://github.com/king-technologies/Project-Initiator/): Start your project with Single Command 🔥, First Commit, Funding links, add to workspace and more
 
-[Send FCM Notifiactions](https://rohit19060.github.io/Send_FCM_Notifications/): Notify User using FCM Server Key and
-Device Token
+[Send FCM Notifiactions](https://rohit19060.github.io/Send_FCM_Notifications/): Notify User using FCM Server Key and Device Token
 
 [Github Repos](https://rohit19060.github.io/Github-API/): Get all the user repo by Github Username
 
