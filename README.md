@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">Enthusiast about Tech and want to Learn Everything</h3>
+<h1 align="center">Hi 👋, Guys! Hoping you are having a great day/Night.</h1>
+<h3 align="center">Text: 🔥 Enthusiast about Tech and want to Learn Everything</h3>
 
-<img align="right" src='./assets/images/GitHubskills.svg' width="200">
+<img align="right" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="200">
 
 - 🦁 Welcome to **[King Technologies](https://kingtechnologies.in "King Tech")**
 
@@ -20,6 +20,8 @@ Initiator")**
 <h2 align="center">🌟 Socials 🌟</h2>
 <br />
 <p align="center">
+    <a href="mailto:rohitjain19060@gmail.com?subject=Hi%20from%20Github_Profile" title="Gmail">
+        <img src="./assets/images/Gmail.svg" alt="Gmail" width="54" /></a>
     <a href="https://www.linkedin.com/in/rohit19060/" title="LinkedIn">
         <img src="./assets/images/Linkedin.svg" alt="LinkedIn" width="40" /></a>
     <a href="https://www.instagram.com/king_rohit_jain/" title="Instagram">
@@ -31,11 +33,15 @@ Initiator")**
     <a href="https://dev.to/rohit19060" title="Dev.to">
         <img src="./assets/images/Dev.svg" alt="Dev.to" width="40" /> </a>
     <a href="https://g.dev/rohitjain" title="Developer Profile">
-        <img src="./assets/images/Gdev.svg" alt="Gmail" width="70" /></a>
+        <img src="./assets/images/Gdev.svg" alt="gdev" width="70" /></a>
+    <a href="https://wa.me/message/2BFKBEIG53U6H1" title="Whatsapp">
+        <img src="./assets/images/Whatsapp.svg" alt="Whatsapp" width="38" /></a>
 </p>
 <br />
-<h2 align="center">🚀 Useful Links 🚀</h2>
+<h2 align="center">🚀 Super Projects 🚀</h2>
 <br />
+
+[Project Initiator](https://github.com/king-technologies/Project-Initiator/): Start your project with Single Command 🔥, First Commit, Funding links, add to workspace and more
 
 [Send FCM Notifiactions](https://rohit19060.github.io/Send_FCM_Notifications/): Notify User using FCM Server Key and
 Device Token
@@ -111,7 +117,5 @@ Device Token
 </p>
 <p align="center">Made with ❤️ in India</p>
 
-![Rohit's Github
-Contribution](https://github.com/Rohit19060/Rohit19060/blob/output/github-snake-dark.gif?raw=true#gh-dark-mode-only)
-![Rohit's Github
-Contribution](https://github.com/Rohit19060/Rohit19060/blob/output/github-snake.gif?raw=true#gh-light-mode-only)
+![Rohit's Github Contribution](https://github.com/Rohit19060/Rohit19060/blob/output/github-snake-dark.gif?raw=true#gh-dark-mode-only)
+![Rohit's Github Contribution](https://github.com/Rohit19060/Rohit19060/blob/output/github-snake.gif?raw=true#gh-light-mode-only)
