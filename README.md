@@ -54,6 +54,8 @@ Initiator")**
 
 [Store Bookmarks](https://rohit19060.github.io/bookmark-store/): Store Bookmark Temporarily
 
+[<img src="https://user-images.githubusercontent.com/7581348/177040052-5c0ada3e-ea1a-43aa-954b-6556ccfc53ca.png" height="32px">](https://github.com/sponsors/Rohit19060)
+
 <br />
 <h2 align="center">🤍 Stats 🤍</h2>
 <br />
@@ -116,6 +118,8 @@ Initiator")**
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
 <p align="center">Made with ❤️ in India</p>
+
+If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:rohitjain19060@gmail.com).
 
 ![Rohit's Github Contribution](https://github.com/Rohit19060/Rohit19060/blob/output/github-snake-dark.gif?raw=true#gh-dark-mode-only)
 ![Rohit's Github Contribution](https://github.com/Rohit19060/Rohit19060/blob/output/github-snake.gif?raw=true#gh-light-mode-only)
