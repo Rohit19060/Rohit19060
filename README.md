@@ -3,7 +3,7 @@
 
 <img align="right" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="200">
 
-- 🦁 Welcome to **[King Technologies](https://kingtechnologies.in "King Tech")**
+- 🦁 Welcome to **[King Technologies](https://kingtechnologies.dev "King Tech")**
 
 - 🏮 I’m currently working on **[Youtube](https://www.youtube.com/channel/UCBkOLsuxGJJRVyV2UIK9alQ?sub_confirmation=1
 "Thanks for Visiting")**
