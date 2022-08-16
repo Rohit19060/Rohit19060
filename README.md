@@ -54,8 +54,6 @@ Initiator")**
 
 [Store Bookmarks](https://rohit19060.github.io/bookmark-store/): Store Bookmark Temporarily
 
-[<img src="https://user-images.githubusercontent.com/7581348/177040052-5c0ada3e-ea1a-43aa-954b-6556ccfc53ca.png" height="32px">](https://github.com/sponsors/Rohit19060)
-
 <br />
 <h2 align="center">🤍 Stats 🤍</h2>
 <br />
