@@ -44,11 +44,7 @@ Initiator")**
 
 [Project Initiator](https://github.com/king-technologies/Project-Initiator/): Start your project with Single Command 🔥, First Commit, Funding links, add to workspace and more
 
-[Send FCM Notifications](https://rohit19060.github.io/Send_FCM_Notifications/): Notify User using FCM Server Key and Device Token
-
-[Github Repos](https://rohit19060.github.io/Github-API/): Get all the user repo by Github Username
-
-[World Clock](https://rohit19060.github.io/World-Clock-Converter/): Check Time Based on the Other Countries Time
+[Send FCM Notifications](https://rohit19060.github.io/send_fcm_notifications/): Notify User using FCM Server Key and Device Token
 
 [Typing Master](https://kingtechnologies.in/Typing%20Master): Typing Master for Touch Typing Practice
 
