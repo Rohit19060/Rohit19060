@@ -34,8 +34,22 @@ Initiator")**
         <img src="./assets/images/Dev.svg" alt="Dev.to" width="40" /> </a>
     <a href="https://g.dev/rohitjain" title="Developer Profile">
         <img src="./assets/images/Gdev.svg" alt="gdev" width="70" /></a>
-    <a href="https://wa.me/message/2BFKBEIG53U6H1" title="Whatsapp">
-        <img src="./assets/images/Whatsapp.svg" alt="Whatsapp" width="38" /></a>
+ 
+</p>
+
+<p align="center">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
 </p>
 <br />
 <h2 align="center">🚀 Super Projects 🚀</h2>
