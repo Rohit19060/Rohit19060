@@ -34,7 +34,7 @@ Initiator")**
         <img src="./assets/images/Dev.svg" alt="Dev.to" width="40" /> </a>
     <a href="https://g.dev/rohitjain" title="Developer Profile">
         <img src="./assets/images/Gdev.svg" alt="gdev" width="70" /></a>
- 
+
 </p>
 
 <p align="center">
@@ -54,7 +54,6 @@ Initiator")**
 <br />
 <h2 align="center">🚀 Super Projects 🚀</h2>
 <br />
-
 
 [Project Initiator](https://github.com/king-technologies/Project-Initiator/): Start your project with Single Command 🔥, First Commit, Funding links, add to workspace and more
 
