@@ -53,7 +53,11 @@ Initiator")**
 </p>
 <br />
 <h2 align="center">🚀 Super Projects 🚀</h2>
-<br />
+<p align="center">
+<a href="https://play.google.com/store/apps/dev?id=7629936620459916626"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="icon" width="354" align="center"/></a>
+</p>
+
+[![LineUP](https://play-lh.googleusercontent.com/9EekgsvtnIELpO3GV2UkFH3f9L34j2vkgtMmU5xShPLkxcPmQznXFVtAQsYid964Fw=w240-h480-rw)](https://play.google.com/store/apps/details?id=com.kingtechnologies.lineup): Lines Management App for individuals who want to focus and task completion and keep track of the things 
 
 [Project Initiator](https://github.com/king-technologies/Project-Initiator/): Start your project with Single Command 🔥, First Commit, Funding links, add to workspace and more
 
