@@ -129,6 +129,6 @@ Initiator")**
 <p align="center">Made with ❤️ in India</p>
 
 If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:rohitjain19060@gmail.com).
-
+<!-- 
 ![Rohit's Github Contribution](https://github.com/Rohit19060/Rohit19060/blob/output/github-snake-dark.gif?raw=true#gh-dark-mode-only)
-![Rohit's Github Contribution](https://github.com/Rohit19060/Rohit19060/blob/output/github-snake.gif?raw=true#gh-light-mode-only)
+![Rohit's Github Contribution](https://github.com/Rohit19060/Rohit19060/blob/output/github-snake.gif?raw=true#gh-light-mode-only) -->
