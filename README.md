@@ -127,8 +127,7 @@ Initiator")**
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
 <p align="center">Made with ❤️ in India</p>
-
-If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:rohitjain19060@gmail.com).
+<p align="center">If you'd like to discuss any sort of opportunity, feel free to <a href="mailto:rohitjain19060@gmail.com" title="mailto:rohitjain19060@gmail.com">Contact me</a></p>
 <!-- 
 ![Rohit's Github Contribution](https://github.com/Rohit19060/Rohit19060/blob/output/github-snake-dark.gif?raw=true#gh-dark-mode-only)
 ![Rohit's Github Contribution](https://github.com/Rohit19060/Rohit19060/blob/output/github-snake.gif?raw=true#gh-light-mode-only) -->
