@@ -54,10 +54,10 @@ Initiator")**
 <br />
 <h2 align="center">🚀 Super Projects 🚀</h2>
 
-[![LineUP](./assets/images/lineup.png)](https://play.google.com/store/apps/details?id=dev.kingtechnologies.lineup): (Line Up) Task Management App for individuals who want to focus on task completion and keep track of the things 
+<a href="https://play.google.com/store/apps/details?id=dev.kingtechnologies.lineup" title="Line Up"><img src="./assets/images/lineup.png" alt="Line Up" width="80" /></a> (Line Up) Task Management App for individuals who want to focus on task completion and keep track of the things
 
 <p align="center">
-<a href="https://play.google.com/store/apps/dev?id=7629936620459916626"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="icon" width="354" align="center"/></a>
+<a href="https://play.google.com/store/apps/dev?id=7629936620459916626"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="icon" width="254" align="center"/></a>
 </p>
 
 [Project Initiator](https://github.com/king-technologies/Project-Initiator/): Start your project with Single Command 🔥, First Commit, Funding links, add to workspace and more
