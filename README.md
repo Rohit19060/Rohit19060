@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, Guys! Hoping you are having a great day/Night.</h1>
-<h4 align="center">🔥 Consistently deliver high-quality work on a wide range of projects using my diverse skill set and dedication to staying up-to-date. Always looking for new opportunities to use my technical and creative skills to create innovative and user-friendly solutions.</h4>
 
 <img align="right" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="200">
 
@@ -16,6 +15,8 @@ Initiator")**
 - 💬 Ask me about Anything **Tech** Related
 
 - ⚡ Fun fact **I am Iron Man!**
+
+<h4 align="center">🔥 Consistently deliver high-quality work on a wide range of projects using my diverse skill set and dedication to staying up-to-date. Always looking for new opportunities to use my technical and creative skills to create innovative and user-friendly solutions.</h4>
 
 <h2 align="center">🌟 Socials 🌟</h2>
 <br />
