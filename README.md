@@ -21,6 +21,8 @@ Initiator")**
 <h2 align="center">🌟 Socials 🌟</h2>
 <br />
 <p align="center">
+     <a href="https://g.dev/rohitjain" title="Developer Profile">
+        <img src="./assets/images/Gdev.svg" alt="gdev" width="70" /></a>
     <a href="mailto:rohitjain19060@gmail.com?subject=Hi%20from%20Github_Profile" title="Gmail">
         <img src="./assets/images/Gmail.svg" alt="Gmail" width="54" /></a>
     <a href="https://www.linkedin.com/in/rohit19060/" title="LinkedIn">
@@ -33,9 +35,6 @@ Initiator")**
         <img src="./assets/images/Hashnode.svg" alt="Hashnode" width="40" /></a>
     <a href="https://dev.to/rohit19060" title="Dev.to">
         <img src="./assets/images/Dev.svg" alt="Dev.to" width="40" /> </a>
-    <a href="https://g.dev/rohitjain" title="Developer Profile">
-        <img src="./assets/images/Gdev.svg" alt="gdev" width="70" /></a>
-
 </p>
 
 <p align="center">
