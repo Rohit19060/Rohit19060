@@ -36,7 +36,8 @@ Initiator")**
     <a href="https://dev.to/rohit19060" title="Dev.to">
         <img src="./assets/images/Dev.svg" alt="Dev.to" width="40" /> </a>
 </p>
-
+<br />
+<h2 align="center">🌟 TECHS 🌟</h2>
 <p align="center">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
