@@ -47,7 +47,8 @@ Initiator")**
         <img src="./assets/images/astro.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="./assets/images/Nextjs.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="./assets/images/Rust.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="./assets/images/Svelte.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="./assets/images/Rust.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;&nbsp;&nbsp;
         <img src="./assets/images/gopher.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="./assets/images/Tailwind.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
