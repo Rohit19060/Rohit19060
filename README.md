@@ -39,13 +39,18 @@ Initiator")**
 <br />
 <h2 align="center">🌟 TECHS 🌟</h2>
 <p align="center">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="./assets/images/Typescript.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="./assets/images/astro.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="./assets/images/Nextjs.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="./assets/images/Rust.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="./assets/images/gopher.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="./assets/images/Tailwind.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
 </p>
 <br />
 <h2 align="center">🚀 Super Projects 🚀</h2>
@@ -124,6 +129,6 @@ Initiator")**
 </p>
 <p align="center">Made with ❤️ in India</p>
 <p align="center">If you'd like to discuss any sort of opportunity, feel free to <a href="mailto:rohitjain19060@gmail.com" title="mailto:rohitjain19060@gmail.com">Contact me</a></p>
-<!-- 
+
 ![Rohit's Github Contribution](https://github.com/Rohit19060/Rohit19060/blob/output/github-snake-dark.gif?raw=true#gh-dark-mode-only)
-![Rohit's Github Contribution](https://github.com/Rohit19060/Rohit19060/blob/output/github-snake.gif?raw=true#gh-light-mode-only) -->
+![Rohit's Github Contribution](https://github.com/Rohit19060/Rohit19060/blob/output/github-snake.gif?raw=true#gh-light-mode-only)
