@@ -40,16 +40,11 @@ Initiator")**
 <h2 align="center">🌟 TECHS 🌟</h2>
 <p align="center">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
 </p>
 <br />
