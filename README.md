@@ -39,19 +39,23 @@ Initiator")**
 <br />
 <h2 align="center">🌟 TECHS 🌟</h2>
 <p align="center">
-        <img src="./assets/images/Typescript.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="./assets/images/typescript.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="./assets/images/deno.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="./assets/images/dart.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="./assets/images/flutter.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="./assets/images/kotlin.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="./assets/images/astro.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="./assets/images/Nextjs.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="./assets/images/Svelte.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="./assets/images/Rust.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;&nbsp;&nbsp;
+        <img src="./assets/images/nextjs.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="./assets/images/svelte.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="./assets/images/rust.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;&nbsp;&nbsp;
         <img src="./assets/images/gopher.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="./assets/images/Tailwind.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="./assets/images/tailwind.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
 </p>
 <br />
 <h2 align="center">🚀 Super Projects 🚀</h2>
