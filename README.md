@@ -18,19 +18,9 @@ Initiator")**
 
 <h4 align="center">🔥 Consistently deliver high-quality work on a wide range of projects using my diverse skill set and dedication to staying up-to-date. Always looking for new opportunities to use my technical and creative skills to create innovative and user-friendly solutions.</h4>
 
-<h2 align="center">🌟 Socials 🌟</h2>
+<h2 align="center">🌟 Blogs 🌟</h2>
 <br />
 <p align="center">
-     <a href="https://g.dev/rohitjain" title="Developer Profile">
-        <img src="./assets/images/Gdev.svg" alt="gdev" width="70" /></a>
-    <a href="mailto:rohitjain19060@gmail.com?subject=Hi%20from%20Github_Profile" title="Gmail">
-        <img src="./assets/images/Gmail.svg" alt="Gmail" width="54" /></a>
-    <a href="https://www.linkedin.com/in/rohit19060/" title="LinkedIn">
-        <img src="./assets/images/Linkedin.svg" alt="LinkedIn" width="40" /></a>
-    <a href="https://www.instagram.com/king_rohit_jain/" title="Instagram">
-        <img src="./assets/images/Instagram.svg" alt="Instagram" width="40" /></a>
-    <a href="https://twitter.com/Rohit_Jain19060" title="Twitter">
-        <img src="./assets/images/Twitter.svg" alt="Twitter" width="40" /></a>
     <a href="https://rohit19060.hashnode.dev/" title="Hashnode">
         <img src="./assets/images/Hashnode.svg" alt="Hashnode" width="40" /></a>
     <a href="https://dev.to/rohit19060" title="Dev.to">
