@@ -61,7 +61,7 @@ Initiator")**
 
 [Typing Master](https://kingtechnologies.in/Typing%20Master): Typing Master for Touch Typing Practice
 
-[Store Bookmarks](https://rohit19060.github.io/bookmark-store/): Store Bookmark Temporarily
+[Store Bookmarks](https://rohit19060.github.io/bookmark-store/): Store Bookmark (Local Storage)
 
 <br />
 <h2 align="center">🤍 Stats 🤍</h2>
