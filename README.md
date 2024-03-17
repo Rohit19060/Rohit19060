@@ -67,7 +67,7 @@ Initiator")**
 
 [Send FCM Notifications](https://rohit19060.github.io/send_fcm_notifications/): Notify User using FCM Server Key and Device Token
 
-[Typing Master](https://kingtechnologies.in/Typing%20Master): Typing Master for Touch Typing Practice
+<!-- [Typing Master](https://kingtechnologies.in/Typing%20Master): Typing Master for Touch Typing Practice -->
 
 [Store Bookmarks](https://rohit19060.github.io/bookmark-store/): Store Bookmark (Local Storage)
 
