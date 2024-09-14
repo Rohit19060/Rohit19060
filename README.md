@@ -24,8 +24,8 @@
 <h2 align="center">🌟 Tech Stack 🌟</h2>
 <p align="center">
 <picture>
-  <source srcset="./assets/images/rust.svg" media="(prefers-color-scheme: dark)">
-  <img src="./assets/images/rust_white.svg" alt="Your image description" width="54" height="54" align="center"/>
+  <source srcset="./assets/images/rust_white.svg" media="(prefers-color-scheme: dark)">
+  <img src="./assets/images/rust.svg" alt="Your image description" width="54" height="54" align="center"/>
 </picture>
         <img src="./assets/images/flutter.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="./assets/images/typescript.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
