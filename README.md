@@ -4,19 +4,13 @@
 
 - 🦁 Welcome to **[King Technologies](https://kingtechnologies.dev "King Tech")**
 
-- 🏮 I’m currently working on **[Youtube](https://www.youtube.com/channel/UCBkOLsuxGJJRVyV2UIK9alQ?sub_confirmation=1
-"Thanks for Visiting")**
+- 🏮 I’m currently working on my **[Rust](https://www.rust-lang.org/)** Skills
 
-- 🌱 I’m currently learning **Kotlin**
+- 💬 I like to do Tech Talks and collaborate on **[Project Initiator](https://github.com/king-technologies/Project_Initiator "Project Initiator")**
 
-- 🎊 I’m looking to collaborate on **[Project Initiator](https://github.com/king-technologies/Project_Initiator "Project
-Initiator")**
+- ⚡ Fun fact **Passion significantly boosts your ability to learn new things!**
 
-- 💬 Ask me about Anything **Tech** Related
-
-- ⚡ Fun fact **I am Iron Man!**
-
-<h4 align="center">🔥 Consistently deliver high-quality work on a wide range of projects using my diverse skill set and dedication to staying up-to-date. Always looking for new opportunities to use my technical and creative skills to create innovative and user-friendly solutions.</h4>
+<h4 align="center">🚀 Committed to consistently delivering top-tier solutions across diverse projects, driven by a passion for innovation and excellence. With a strong technical foundation and a continuous drive to stay ahead of the curve, I thrive on creating impactful, user-centric technologies that push boundaries and elevate experiences.</h4>
 
 <h2 align="center">🌟 Blogs 🌟</h2>
 <br />
@@ -27,12 +21,17 @@ Initiator")**
         <img src="./assets/images/Dev.svg" alt="Dev.to" width="40" /> </a>
 </p>
 <br />
-<h2 align="center">🌟 TECHS 🌟</h2>
+<h2 align="center">🌟 Tech Stack 🌟</h2>
 <p align="center">
+<picture>
+  <source srcset="./assets/images/rust.svg" media="(prefers-color-scheme: dark)">
+  <img src="./assets/images/rust.svg" alt="Your image description" width="54" height="54" align="center"/>
+</picture>
+        <img src="./assets/images/rust.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;&nbsp;&nbsp;
+        <img src="./assets/images/flutter.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="./assets/images/typescript.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="./assets/images/deno.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="./assets/images/dart.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="./assets/images/flutter.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="./assets/images/kotlin.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
@@ -41,7 +40,6 @@ Initiator")**
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="./assets/images/nextjs.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="./assets/images/svelte.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="./assets/images/rust.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;&nbsp;&nbsp;
         <img src="./assets/images/gopher.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="./assets/images/tailwind.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
