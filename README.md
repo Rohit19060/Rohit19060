@@ -11,16 +11,27 @@
 - ⚡ Fun fact **Passion significantly boosts your ability to learn new things!**
 
 <h4 align="center">🚀 Committed to consistently delivering top-tier solutions across diverse projects, driven by a passion for innovation and excellence. With a strong technical foundation and a continuous drive to stay ahead of the curve, I thrive on creating impactful, user-centric technologies that push boundaries and elevate experiences.</h4>
+<br/>
+<h2 align="center">🚀 Super Projects 🚀</h2>
 
-<h2 align="center">🌟 Blogs 🌟</h2>
-<br />
 <p align="center">
-    <a href="https://rohit19060.hashnode.dev/" title="Hashnode">
-        <img src="./assets/images/Hashnode.svg" alt="Hashnode" width="40" /></a>
-    <a href="https://dev.to/rohit19060" title="Dev.to">
-        <img src="./assets/images/Dev.svg" alt="Dev.to" width="40" /> </a>
+<a href="https://play.google.com/store/apps/details?id=dev.kingtechnologies.lineup"><img src="./assets/images/lineup.png" alt="icon" width="60" align="center"/></a>&nbsp; <b>Line Up</b> - Task Management App for individuals who want to focus on task completion and keep track of the things
 </p>
-<br />
+ 
+<p align="center">
+<a href="https://pub.dev/packages/king_cache"><img src="./assets/images/pub_dev_king_cache.png" alt="icon" width="200" align="center"/></a>&nbsp;<b>King Cache</b> - A simple and easy to use cache management for flutter 
+</p>
+
+
+[Project Initiator](https://github.com/king-technologies/Project-Initiator/): Start your project with Single Command 🔥, First Commit, Funding links, add to workspace and more
+
+[MyQueueBox](https://kings-library.vercel.app/): **MyQueueBox** is your personal space for managing and organizing YouTube, playlists & links. Designed for ease and efficiency, it allows you to save videos for later viewing, organize your content with ease. Keep your library neatly stored and always ready for whenever you're in the mood to watch or read.
+
+
+<p align="center">
+<a href="https://play.google.com/store/apps/dev?id=7629936620459916626"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="icon" width="254" align="center"/></a>
+</p>
+
 <h2 align="center">🌟 Tech Stack 🌟</h2>
 <p align="center">
 <picture>
@@ -29,54 +40,36 @@
 </picture>
         <img src="./assets/images/flutter.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="./assets/images/typescript.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="./assets/images/deno.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <img src="./assets/images/elixir.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <picture>
+  <source srcset="./assets/images/deno_white.svg" media="(prefers-color-scheme: dark)">
+  <img src="./assets/images/deno.svg" alt="Your image description" width="54" height="54" align="center"/>
+</picture>
         <img src="./assets/images/dart.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="./assets/images/kotlin.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="./assets/images/astro.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="./assets/images/nextjs.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
+        <picture>
+  <source srcset="./assets/images/nextjs_white.svg" media="(prefers-color-scheme: dark)">
+  <img src="./assets/images/nextjs.svg" alt="Your image description" width="54" height="54" align="center"/>
+</picture>
         <img src="./assets/images/svelte.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="./assets/images/gopher.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="./assets/images/tailwind.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
 </p>
 <br />
-<h2 align="center">🚀 Super Projects 🚀</h2>
 
+<h2 align="center">🌟 Blogs 🌟</h2>
 <p align="center">
-<a href="https://play.google.com/store/apps/dev?id=7629936620459916626"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="icon" width="254" align="center"/></a>
+    <a href="https://rohit19060.hashnode.dev/" title="Hashnode">
+        <img src="./assets/images/Hashnode.svg" alt="Hashnode" width="40" /></a>
+    <a href="https://dev.to/rohit19060" title="Dev.to">
+        <img src="./assets/images/Dev.svg" alt="Dev.to" width="40" /> </a>
 </p>
-
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=dev.kingtechnologies.lineup"><img src="./assets/images/lineup.png" alt="icon" width="80" align="center"/></a> Line Up (Android App) - Task Management App for individuals who want to focus on task completion and keep track of the things
-
-</p>
- 
-<p align="center">
-<a href="https://pub.dev/packages/king_cache"><img src="./assets/images/pub_dev_king_cache.png" alt="icon" width="200" align="center"/></a> King Cache (Flutter Package) - A simple and easy to use cache management for flutter 
-</p>
-
-
-[Project Initiator](https://github.com/king-technologies/Project-Initiator/): Start your project with Single Command 🔥, First Commit, Funding links, add to workspace and more
-
-[Send FCM Notifications](https://rohit19060.github.io/send_fcm_notifications/): Notify User using FCM Server Key and Device Token
-
-<!-- [Typing Master](https://kingtechnologies.in/Typing%20Master): Typing Master for Touch Typing Practice -->
-
-[Store Bookmarks](https://rohit19060.github.io/bookmark-store/): Store Bookmark (Local Storage)
-
 <br />
 <h2 align="center">🤍 Stats 🤍</h2>
 <br />
 
 <p align="center">
-<!--     <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
-        <img src="https://github-readme-stats.vercel.app/api?username=rohit19060&show_icons=true&custom_title=My%20GitHub%20Stats&border_radius=0"
-            alt="Github Stats" width="49%" />
-    </a> -->
     <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit19060&border_radius=0" alt="Rohit19060"
             width="49%" />
@@ -85,14 +78,7 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohit19060&theme=radical" alt="Rohit19060"
             width="49%" />
     </a>
-
-<!--    <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohit19060&repo=flutter_experiments" alt="Rohit19060"
-            width="49%" />
-    </a>  <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
-        <img src="https://metrics.lecoq.io/rohit19060?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" alt="Rohit19060"
-            width="49%" />
-    </a>   -->
+ 
 </p>
 <p align="center">
 <a href="https://wakatime.com/@rohit19060"><img src="https://wakatime.com/badge/user/133bdcbb-6ca0-4954-a8b6-36ff42dca033.svg"></a>
@@ -110,14 +96,6 @@
     </p>
 </details>
 
-<!-- <p align="center">
-    <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rohit19060&langs_count=24&show_icons=true&custom_title=This%20Week%27s%20Stats&include_all_commits=true&count_private=true&border_radius=0" alt="Github Stats" width="49%"/>
-    </a>
-    <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit19060&langs_count=8&custom_title=Most%20Used%20Langauges&include_all_commits=true&count_private=true&border_radius=0" alt="Github Stats" width="49%" />
-    </a>
-</p> -->
 
 <h2 align="center">🤝 Support 🤝</h2>
 
