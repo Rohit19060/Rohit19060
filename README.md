@@ -16,11 +16,12 @@
 </p>
 <br>
 <p align="center">
-  <a href="https://www.facebook.com/KingTechnologist" target="_blank"><img src="./assets/images/fb.svg" alt="Elixir" width="54" height="54" /></a>
-  <a href="https://www.instagram.com/king_technologies" target="_blank"><img src="./assets/images/instagram.svg" alt="Elixir" width="54" height="54" /></a>
-  <a href="https://www.youtube.com/channel/UCBkOLsuxGJJRVyV2UIK9alQ?sub_confirmation=1" target="_blank"><img src="./assets/images/youtube.svg" alt="Elixir" width="54" height="54" /></a>
-  <a href="https://www.twitch.tv/kingtechnologies" target="_blank"><img src="./assets/images/twitch.svg" alt="Elixir" width="54" height="54" /></a>
-  <a href="https://x.com/king_tech1/" target="_blank"><img src="./assets/images/twitter.svg" alt="Elixir" width="54" height="54" /></a>
+  <a href="https://www.linkedin.com/in/rohit19060" target="_blank"><img src="./assets/images/linkedin.svg" alt="Linked In" width="54" height="54" /></a>
+  <a href="https://www.facebook.com/KingTechnologist" target="_blank"><img src="./assets/images/fb.svg" alt="Facebook" width="54" height="54" /></a>
+  <a href="https://www.instagram.com/king_technologies" target="_blank"><img src="./assets/images/instagram.svg" alt="Instagram" width="54" height="54" /></a>
+  <a href="https://www.youtube.com/channel/UCBkOLsuxGJJRVyV2UIK9alQ?sub_confirmation=1" target="_blank"><img src="./assets/images/youtube.svg" alt="YouTube" width="54" height="54" /></a>
+  <a href="https://www.twitch.tv/kingtechnologies" target="_blank"><img src="./assets/images/twitch.svg" alt="Twitch" width="54" height="54" /></a>
+  <a href="https://x.com/king_tech1/" target="_blank"><img src="./assets/images/twitter.svg" alt="Twitter" width="54" height="54" /></a>
 </p>
 <h2 align="center">🌟 Tech Stack 🌟</h2>
 <p align="center">
