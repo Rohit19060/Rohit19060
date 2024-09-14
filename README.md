@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Guys! Hoping you are having a great day/Night.</h1>
 
-<img align="right" src="https://kingtechnologies.dev/assets/images/logo.webp" width="150" />
+<a href="https://kingtechnologies.dev"><img align="right" src="https://kingtechnologies.dev/assets/images/logo.webp" width="150" /></a>
 
 
 - 🦁 Welcome to **[King Technologies](https://kingtechnologies.dev "King Tech")**
