@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Guys! Hoping you are having a great day/Night.</h1>
 
-<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" />
+<img align="right" src="https://kingtechnologies.dev/assets/images/logo.webp" width="150" />
 
 
 - 🦁 Welcome to **[King Technologies](https://kingtechnologies.dev "King Tech")**
@@ -15,6 +15,13 @@
   🚀 Committed to consistently delivering top-tier solutions across diverse projects, driven by a passion for innovation and excellence. With a strong technical foundation and a continuous drive to stay ahead of the curve, I thrive on creating impactful, user-centric technologies that push boundaries and elevate experiences.
 </p>
 <br>
+<p align="center">
+  <a href="https://www.facebook.com/KingTechnologist"><img src="./assets/images/fb.svg" alt="Elixir" width="54" height="54" /></a>
+  <a href="https://www.instagram.com/king_technologies"><img src="./assets/images/instagram.svg" alt="Elixir" width="54" height="54" /></a>
+  <a href="https://www.youtube.com/channel/UCBkOLsuxGJJRVyV2UIK9alQ?sub_confirmation=1"><img src="./assets/images/youtube.svg" alt="Elixir" width="54" height="54" /></a>
+  <a href="https://www.twitch.tv/kingtechnologies"><img src="./assets/images/twitch.svg" alt="Elixir" width="54" height="54" /></a>
+  <a href="https://x.com/king_tech1/"><img src="./assets/images/twitter.svg" alt="Elixir" width="54" height="54" /></a>
+</p>
 <h2 align="center">🌟 Tech Stack 🌟</h2>
 <p align="center">
   <picture>
