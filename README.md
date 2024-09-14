@@ -91,10 +91,10 @@
 <h2 align="center">🌟 Blogs 🌟</h2>
 <p align="center">
   <a href="https://rohit19060.hashnode.dev/" title="Hashnode" target="_blank">
-    <img src="./assets/images/Hashnode.svg" alt="Hashnode" width="40" />
+    <img src="./assets/images/hashnode.svg" alt="Hashnode" width="40" />
   </a>
   <a href="https://dev.to/rohit19060" title="Dev.to" target="_blank">
-    <img src="./assets/images/Dev.svg" alt="Dev.to" width="40" />
+    <img src="./assets/images/dev.svg" alt="Dev.to" width="40" />
   </a>
 </p>
 
