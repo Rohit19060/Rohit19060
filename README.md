@@ -2,19 +2,18 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" />
 
-<p align="center">
-  🦁 Welcome to <strong><a href="https://kingtechnologies.dev" title="King Tech">King Technologies</a></strong>
-  <br />
-  🏮 I’m currently working on my <strong><a href="https://www.rust-lang.org/" title="Rust">Rust</a></strong> skills
-  <br />
-  💬 I enjoy Tech Talks and collaborating on <strong><a href="https://github.com/king-technologies/Project_Initiator" title="Project Initiator">Project Initiator</a></strong>
-  <br />
-  ⚡ Fun fact: Passion significantly boosts your ability to learn new things!
-</p>
 
-<h4 align="center">
+- 🦁 Welcome to **[King Technologies](https://kingtechnologies.dev "King Tech")**
+
+- 🏮 I’m currently working on my **[Rust](https://www.rust-lang.org/)** skills
+
+- 💬 I enjoy Tech Talks and collaborating on **[Project Initiator](https://github.com/king-technologies/Project_Initiator "Project Initiator")**
+
+- ⚡ Fun fact **Passion significantly boosts your ability to learn new things!**
+
+<p align="center">
   🚀 Committed to consistently delivering top-tier solutions across diverse projects, driven by a passion for innovation and excellence. With a strong technical foundation and a continuous drive to stay ahead of the curve, I thrive on creating impactful, user-centric technologies that push boundaries and elevate experiences.
-</h4>
+</p>
 <br>
 <h2 align="center">🌟 Tech Stack 🌟</h2>
 <p align="center">
@@ -23,12 +22,12 @@
     <img src="./assets/images/rust.svg" alt="Rust" width="54" height="54" />
   </picture>
   <img src="./assets/images/flutter.svg" alt="Flutter" width="54" height="54" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="54" height="54" />
   &nbsp;
   <picture>
     <source srcset="./assets/images/nextjs_white.svg" media="(prefers-color-scheme: dark)">
     <img src="./assets/images/nextjs.svg" alt="Next.js" width="54" height="54" />
   </picture>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="54" height="54" />
   &nbsp;
   <img src="./assets/images/typescript.svg" alt="TypeScript" width="54" height="54" />
   &nbsp;
@@ -42,11 +41,11 @@
   <img src="./assets/images/dart.svg" alt="Dart" width="54" height="54" />
   &nbsp;
   <img src="./assets/images/kotlin.svg" alt="Kotlin" width="54" height="54" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="54" height="54" />
   &nbsp;
   <img src="./assets/images/svelte.svg" alt="Svelte" width="54" height="54" />
   &nbsp;
   <img src="./assets/images/tailwind.svg" alt="Tailwind CSS" width="54" height="54" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="54" height="54" />
 </p>
 <br>
 <h2 align="center">🚀 Super Projects 🚀</h2>
