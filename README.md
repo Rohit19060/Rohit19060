@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10000&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+Guys!+Hoping+you+are+having+a+great+day%2FNight." alt="Rohit Jain" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10000&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+Guys!+Hoping+you+are+having+a+great+day%2Fnight." alt="Rohit Jain" /></h1>
 
 <a href="https://kingtechnologies.dev" target="_blank"><img align="right" src="https://kingtechnologies.dev/assets/images/logo.webp" width="150" /></a>
 
