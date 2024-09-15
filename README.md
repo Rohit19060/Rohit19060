@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Guys! Hoping you are having a great day/Night.</h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10000&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+Guys!+Hoping+you+are+having+a+great+day%2FNight." alt="Rohit Jain" /></h1>
 
 <a href="https://kingtechnologies.dev" target="_blank"><img align="right" src="https://kingtechnologies.dev/assets/images/logo.webp" width="150" /></a>
 
@@ -100,26 +100,47 @@
 
 <h2 align="center">🤍 Stats 🤍</h2>
 <p align="center">
-  <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit19060&border_radius=0" alt="GitHub Streak" width="49%" />
+  <a href="https://github.com/rohit19060?tab=repositories" title="Profile">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit19060&border_radius=0&theme=transparent" alt="GitHub Streak" width="49%" />
   </a>
-  <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohit19060&theme=radical" alt="Profile Summary" width="49%" />
+  <a href="https://github.com/rohit19060?tab=repositories" title="Profile">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit19060&theme=transparent" alt="Profile Summary" width="49%" />
   </a>
 </p>
+  <!-- <a href="https://github.com/rohit19060?tab=repositories" title="Profile">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohit19060&theme=transparent" alt="GitHub Streak" width="49%" />
+  </a> -->
+ 
+
 <p align="center">
   <a href="https://wakatime.com/@rohit19060" target="_blank">
     <img src="https://wakatime.com/badge/user/133bdcbb-6ca0-4954-a8b6-36ff42dca033.svg" alt="WakaTime" />
   </a>
-  <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
-    <img src="https://komarev.com/ghpvc/?username=Rohit19060&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/rohit19060?tab=repositories" title="Profile">
+    <img src="https://komarev.com/ghpvc/?username=rohit19060&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit19060&theme=react-dark" alt="Contribution Graph" />
+</div>
+<!-- 
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rohit19060&layout=compact&theme=transparent" alt="Top Languages" />
+</div> -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohit19060/rohit19060/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohit19060/rohit19060/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/rohit19060/rohit19060/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 <details>
   <summary>Trophies</summary>
   <p align="center">
-    <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
-      <img src="https://github-profile-trophy.vercel.app/?username=Rohit19060&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" width="49%" />
+    <a href="https://github.com/rohit19060?tab=repositories" title="Profile">
+      <img src="https://github-profile-trophy.vercel.app/?username=rohit19060&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" width="49%" />
     </a>
   </p>
 </details>
