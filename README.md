@@ -35,6 +35,8 @@
     <source srcset="./assets/images/nextjs_white.svg" media="(prefers-color-scheme: dark)">
     <img src="./assets/images/nextjs.svg" alt="Next.js" width="54" height="54" />
   </picture>
+  &nbsp;
+  <img src="./assets/images/laravel.png" alt="Laravel" width="54" height="54" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="54" height="54" />
   &nbsp;
   <img src="./assets/images/typescript.svg" alt="TypeScript" width="54" height="54" />
