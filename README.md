@@ -2,7 +2,6 @@
 
 <a href="https://kingtechnologies.dev" target="_blank"><img align="right" src="https://kingtechnologies.dev/assets/images/logo.webp" width="150" /></a>
 
-
 - 🦁 Welcome to **[King Technologies](https://kingtechnologies.dev "King Tech")**
 
 - 🏮 I’m currently working on my **[Rust](https://www.rust-lang.org/)** skills
@@ -23,41 +22,7 @@
   <a href="https://www.twitch.tv/kingtechnologies" target="_blank"><img src="./assets/images/twitch.svg" alt="Twitch" width="54" height="54" /></a>
   <a href="https://x.com/king_tech1/" target="_blank"><img src="./assets/images/twitter.svg" alt="Twitter" width="54" height="54" /></a>
 </p>
-<h2 align="center">🌟 Tech Stack 🌟</h2>
-<p align="center">
-  <picture>
-    <source srcset="./assets/images/rust_white.svg" media="(prefers-color-scheme: dark)">
-    <img src="./assets/images/rust.svg" alt="Rust" width="54" height="54" />
-  </picture>
-  <img src="./assets/images/flutter.svg" alt="Flutter" width="54" height="54" />
-  &nbsp;
-  <picture>
-    <source srcset="./assets/images/nextjs_white.svg" media="(prefers-color-scheme: dark)">
-    <img src="./assets/images/nextjs.svg" alt="Next.js" width="54" height="54" />
-  </picture>
-  &nbsp;
-  <img src="./assets/images/laravel.png" alt="Laravel" width="54" height="54" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="54" height="54" />
-  &nbsp;
-  <img src="./assets/images/typescript.svg" alt="TypeScript" width="54" height="54" />
-  &nbsp;
-  <img src="./assets/images/bun.svg" alt="TypeScript" width="54" height="54" />
-  &nbsp;
-  <picture>
-    <source srcset="./assets/images/deno_white.svg" media="(prefers-color-scheme: dark)">
-    <img src="./assets/images/deno.svg" alt="Deno" width="52" height="52" />
-  </picture>
-  <img src="./assets/images/elixir.svg" alt="Elixir" width="54" height="54" />
-  <img src="./assets/images/dart.svg" alt="Dart" width="54" height="54" />
-  &nbsp;
-  <img src="./assets/images/kotlin.svg" alt="Kotlin" width="54" height="54" />
-  &nbsp;
-  <img src="./assets/images/svelte.svg" alt="Svelte" width="54" height="54" />
-  &nbsp;
-  <img src="./assets/images/tailwind.svg" alt="Tailwind CSS" width="54" height="54" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="54" height="54" />
-</p>
-<br>
+
 <h2 align="center">🚀 Super Projects 🚀</h2>
 
 <p align="center">
@@ -98,8 +63,41 @@
   <a href="https://dev.to/rohit19060" title="Dev.to" target="_blank">
     <img src="./assets/images/dev.svg" alt="Dev.to" width="40" />
   </a>
-</p>
-
+</p><br>
+<!-- <h2 align="center">🌟 Tech Stack 🌟</h2>
+<p align="center">
+  <picture>
+    <source srcset="./assets/images/rust_white.svg" media="(prefers-color-scheme: dark)">
+    <img src="./assets/images/rust.svg" alt="Rust" width="54" height="54" />
+  </picture>
+  <img src="./assets/images/flutter.svg" alt="Flutter" width="54" height="54" />
+  &nbsp;
+  <picture>
+    <source srcset="./assets/images/nextjs_white.svg" media="(prefers-color-scheme: dark)">
+    <img src="./assets/images/nextjs.svg" alt="Next.js" width="54" height="54" />
+  </picture>
+  &nbsp;
+  <img src="./assets/images/laravel.png" alt="Laravel" width="54" height="54" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="54" height="54" />
+  &nbsp;
+  <img src="./assets/images/typescript.svg" alt="TypeScript" width="54" height="54" />
+  &nbsp;
+  <img src="./assets/images/bun.svg" alt="TypeScript" width="54" height="54" />
+  &nbsp;
+  <picture>
+    <source srcset="./assets/images/deno_white.svg" media="(prefers-color-scheme: dark)">
+    <img src="./assets/images/deno.svg" alt="Deno" width="52" height="52" />
+  </picture>
+  <!-- <img src="./assets/images/elixir.svg" alt="Elixir" width="54" height="54" /> -->
+  <!-- <img src="./assets/images/dart.svg" alt="Dart" width="54" height="54" /> -->
+  <!-- &nbsp;
+  <img src="./assets/images/kotlin.svg" alt="Kotlin" width="54" height="54" /> -->
+  <!-- &nbsp; -->
+  <!-- <img src="./assets/images/svelte.svg" alt="Svelte" width="54" height="54" /> -->
+  <!-- &nbsp;
+  <img src="./assets/images/tailwind.svg" alt="Tailwind CSS" width="54" height="54" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="54" height="54" />
+</p> -->
 <h2 align="center">🤍 Stats 🤍</h2>
 <p align="center">
   <a href="https://github.com/rohit19060?tab=repositories" title="Profile">
@@ -138,14 +136,14 @@
   </picture>
 </p>
 
-<details>
-  <summary>Trophies</summary>
+
+  <p align="center">Trophies</p>
   <p align="center">
     <a href="https://github.com/rohit19060?tab=repositories" title="Profile">
       <img src="https://github-profile-trophy.vercel.app/?username=rohit19060&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" width="49%" />
     </a>
   </p>
-</details>
+
 
 <h2 align="center">🤝 Support 🤝</h2>
 <p align="center">
