@@ -12,16 +12,6 @@
   🚀 Committed to consistently delivering top-tier solutions across diverse projects, driven by a passion for innovation and excellence. With a strong technical foundation and a continuous drive to stay ahead of the curve, I thrive on creating impactful, user-centric technologies that push boundaries and elevate experiences.
 </p>
 <br>
-
-<h2 align="center">🌟 Blogs 🌟</h2>
-<p align="center">
-  <a href="https://rohit19060.hashnode.dev/" title="Hashnode" target="_blank">
-    <img src="./assets/images/hashnode.svg" alt="Hashnode" width="40" />
-  </a>
-  <a href="https://dev.to/rohit19060" title="Dev.to" target="_blank">
-    <img src="./assets/images/dev.svg" alt="Dev.to" width="40" />
-  </a>
-</p><br>
 <h2 align="center">🌟 Tech Stack 🌟</h2>
 <p align="center">
   <picture>
@@ -72,14 +62,14 @@
   </a> -->
  
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://wakatime.com/@rohit19060" target="_blank">
     <img src="https://wakatime.com/badge/user/133bdcbb-6ca0-4954-a8b6-36ff42dca033.svg" alt="WakaTime" />
   </a>
   <a href="https://github.com/rohit19060?tab=repositories" title="Profile">
     <img src="https://komarev.com/ghpvc/?username=rohit19060&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-</p>
+</p> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit19060&theme=react-dark" alt="Contribution Graph" />
