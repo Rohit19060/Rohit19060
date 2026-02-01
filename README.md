@@ -74,6 +74,7 @@ Save and manage videos and learning resources.
 ### 📝 Blogs  
 📖 [Dev.to](https://dev.to/rohit19060)  ·  [Hashnode](https://rohit19060.hashnode.dev/)  
 
+- [`just` Is My Go-To Command Now](https://rohit19060.hashnode.dev/just-is-my-go-to-command-now)
 - [How to Write Stunning Github README.md [Template Provided]](https://dev.to/rohit19060/how-to-write-stunning-github-readme-md-template-provided-5b09)
 - [How to Write Tests in Postman - API Testing](https://dev.to/rohit19060/how-to-write-tests-in-postman-api-testing-4pnn)
 - [What's new in Flutter 3.3](https://dev.to/rohit19060/whats-new-in-flutter-33-leh)
