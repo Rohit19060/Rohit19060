@@ -72,15 +72,13 @@ Save and manage videos and learning resources.
 ---
 
 ### 📝 Blogs  
-📖 [Dev.to](https://dev.to/rohit19060)  ·  [Hashnode](https://rohit19060.hashnode.dev/)  
+📖 [Dev.to](https://dev.to/rohit19060)
 
+- [Vitest: Modern Test-Driven Development Made Easy](https://dev.to/rohit19060/vitest-modern-test-driven-development-made-easy-4ec3)
 - [Feature Flags: The Release Superpower You're Missing](https://dev.to/rohit19060/feature-flags-the-release-superpower-youre-missing-1n3a)
 - [`just` Is My Go-To Command Now](https://rohit19060.hashnode.dev/just-is-my-go-to-command-now)
 - [How to Write Stunning Github README.md [Template Provided]](https://dev.to/rohit19060/how-to-write-stunning-github-readme-md-template-provided-5b09)
 - [How to Write Tests in Postman - API Testing](https://dev.to/rohit19060/how-to-write-tests-in-postman-api-testing-4pnn)
-- [What's new in Flutter 3.3](https://dev.to/rohit19060/whats-new-in-flutter-33-leh)
-- [AI OS — The Operating System](https://forem.com/rohit19060/ai-os-the-first-operating-system-built-by-humanity-for-humanity-1okf)
-- [How to Create a PWA](https://rohit19060.hashnode.dev/how-to-create-a-pwa)
 
 ---
 
