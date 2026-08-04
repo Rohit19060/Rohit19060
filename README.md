@@ -1,47 +1,43 @@
-<h1 align="center">⚡ Building Scalable & Impactful Experiences</h1>
-<p align="center">
-  <strong>Full Stack Engineer | 6+ Years of Experience</strong>
-</p>
+<h1 align="center">⚡ Full-Stack Engineer Building Fast, Scalable & Intelligent Software</h1> <p align="center"> <strong>Rust · SvelteKit · Next.js · TypeScript · Cloudflare</strong> </p>
 
 ---
 
 ### 🧩 Featured Projects
 
-#### [🧩 AARVI (AI Assistant with Real & Virtual Intelligence)](Active Development)
+#### 🧩 AARVI — AI Assistant with Real & Virtual Intelligence (Active Development)
 
-AI assistant that can help you with anything, from answering questions to generating content.  
-**Tech:** Rust (Core) · SvelteKit (Web Interface) · GPUI (Rendering Layer) · Cloudflare (Tunnel)
+A privacy-focused conversational AI assistant built around a Rust core, with web and native desktop interfaces. Bringing social connections, productivity tools, and AI capabilities into one place.
+**Tech:** Rust (Core) · SvelteKit (Web Interface) · GPUI (Desktop UI) · Cloudflare Tunnel
 
-#### [🚀 Project Initiator](https://project-initiator-ui.vercel.app/) (Active development)
+#### [🚀 Project Initiator](https://initiator.kingtechnologies.dev/) (Active Development)
 
 CLI + UI tool that scaffolds full projects with DevOps integration.  
-**Tech:** All Languages & Frameworks · SvelteKit (Web Interface) · Rust (Backend) · Postgres (Database) · Cloudflare (Tunnel)
+**Tech:** Multi-language project scaffolding · SvelteKit (Web Interface) · Rust (Backend) · Postgres (Database) · Cloudflare Tunnel
 
-#### [⌨️ Typing Friend](https://typing-friend.vercel.app/practice) (Active development)
+#### [⌨️ Typing Friend](https://typing-friend.kingtechnologies.dev/) (Active Development)
 
 Multiplayer typing app with an AI coach.  
-**Tech:** SvelteKit (Web Interface & Backend) · Tailwind (Styling) · Firebase (DB & Storage) · AI (Coach) · Cloudflare (Worker & KV)
-
-#### [🧵 Niya Saree Center](https://niya-saree-center-2gxs.vercel.app/) (Active development)
-
-Premium e-commerce platform for All types of sarees.  
-**Tech:** SvelteKit (Web Interface & Backend) · Tailwind (Styling) · Supabase (Storage) · Cloudflare (Worker & KV) • Turso (DB) • Razorpay (Payment Gateway)
+**Tech:** SvelteKit (Web Interface & Backend) · Tailwind (Styling) · Firebase (DB & Storage) · AI (Coach) · Cloudflare Worker & KV
 
 #### [🛍️ Methi Collection](https://methicollection.com/)
 
 Full-featured e-commerce site with payments and admin dashboard.  
-**Tech:** SvelteKit (Web Interface & Backend) · Tailwind (Styling) · Supabase (Storage) · Cloudflare (Worker & KV) • Turso (DB) • Razorpay (Payment Gateway)
+**Tech:** SvelteKit (Web Interface & Backend) · Tailwind (Styling) · Supabase (Storage) · Cloudflare Worker & KV • Turso (DB) • Razorpay (Payment Gateway)
 
-#### [🎬 Queue Box](https://queue-box.vercel.app/)
+#### [🧵 Niya Saree Center](https://niyasareecenter.com/)
 
-Save and manage videos and learning resources.  
+Premium e-commerce platform for all types of sarees.
+**Tech:** SvelteKit (Web Interface & Backend) · Tailwind (Styling) · Supabase (Storage) · Cloudflare Worker & KV • Turso (DB) • Razorpay (Payment Gateway)
+
+#### [🎬 Queue Box](https://queue-box.kingtechnologies.dev/)
+
+Save and manage videos & learning resources
 **Tech:** SvelteKit (Web Interface & Backend) · Cloudflare (Worker) · IndexedDB (Offline Storage) · Tailwind (Styling)
 
 ---
 
 ### ⚙️ Tech Stack
 
-**💪 Strong Expertise:**
 <p align="center"><picture>
     <source srcset="./assets/images/rust_white.svg" media="(prefers-color-scheme: dark)">
     <img src="./assets/images/rust.svg" alt="Rust" width="40" height="40" />
@@ -74,7 +70,7 @@ Save and manage videos and learning resources.
 
 ---
 
-### 📝 Blogs
+### 📝 Technical Writings
 
 📖 [Dev.to](https://dev.to/rohit19060)
 
@@ -104,15 +100,15 @@ Save and manage videos and learning resources.
 
 ---
 
-### 🤝 Support My Work
+### 🤝 Support Open Source
 
-Your support helps me create more open-source and educational content 💙
+Your support helps me create more open-source projects and educational content. 💙
 
 <a href="https://github.com/sponsors/Rohit19060/sponsorships?tier_id=162058">
   <img src="https://img.shields.io/badge/Sponsor%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github" alt="Sponsor Me on GitHub" />
 </a>
 
-🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub Flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!
+🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub Flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are always welcome!
 💙 If you like my projects, give them ⭐ and share them with friends!
 
 ---
