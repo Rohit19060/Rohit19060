@@ -5,34 +5,47 @@
 
 ---
 
-### 🧩 Featured Projects  
+### 🧩 Featured Projects
 
-#### [⌨️ Typing Friend](https://typing-friend.vercel.app/practice)  (Active development)
-Multiplayer typing app with an AI coach.  
-**Tech:** SvelteKit · Tailwind · Firebase · AI · Vercel  
+#### [🧩 AARVI (AI Assistant with Real & Virtual Intelligence)](Active Development)
 
-#### [🚀 Project Initiator](https://project-initiator-ui.vercel.app/)  (Active development)
+AI assistant that can help you with anything, from answering questions to generating content.  
+**Tech:** Rust (Core) · SvelteKit (Web Interface) · GPUI (Rendering Layer) · Cloudflare (Tunnel)
+
+#### [🚀 Project Initiator](https://project-initiator-ui.vercel.app/) (Active development)
+
 CLI + UI tool that scaffolds full projects with DevOps integration.  
-**Tech:** All Languages & Frameworks · SvelteKit · Rust · Postgres · Cloudflare Tunnel  
+**Tech:** All Languages & Frameworks · SvelteKit (Web Interface) · Rust (Backend) · Postgres (Database) · Cloudflare (Tunnel)
 
-#### [🧵 Niya Saree Center](https://niya-saree-center-2gxs.vercel.app/)  (Active development)
+#### [⌨️ Typing Friend](https://typing-friend.vercel.app/practice) (Active development)
+
+Multiplayer typing app with an AI coach.  
+**Tech:** SvelteKit (Web Interface & Backend) · Tailwind (Styling) · Firebase (DB & Storage) · AI (Coach) · Cloudflare (Worker & KV)
+
+#### [🧵 Niya Saree Center](https://niya-saree-center-2gxs.vercel.app/) (Active development)
+
 Premium e-commerce platform for All types of sarees.  
-**Tech:** SvelteKit · Tailwind · Supabase · Firebase · Vercel  
+**Tech:** SvelteKit (Web Interface & Backend) · Tailwind (Styling) · Supabase (Storage) · Cloudflare (Worker & KV) • Turso (DB) • Razorpay (Payment Gateway)
 
-#### [🛍️ Methi Collection](https://methicollection.com/)  
+#### [🛍️ Methi Collection](https://methicollection.com/)
+
 Full-featured e-commerce site with payments and admin dashboard.  
-**Tech:** Next.js · Tailwind · Supabase · Razorpay  
+**Tech:** SvelteKit (Web Interface & Backend) · Tailwind (Styling) · Supabase (Storage) · Cloudflare (Worker & KV) • Turso (DB) • Razorpay (Payment Gateway)
 
-#### [🎬 Queue Box](https://queue-box.vercel.app/)  
+#### [🎬 Queue Box](https://queue-box.vercel.app/)
+
 Save and manage videos and learning resources.  
-**Tech:** SvelteKit · Vercel · IndexedDB · YouTube  
+**Tech:** SvelteKit (Web Interface & Backend) · Cloudflare (Worker) · IndexedDB (Offline Storage) · Tailwind (Styling)
 
 ---
 
-### ⚙️ Tech Stack  
+### ⚙️ Tech Stack
 
-**💪 Strong Expertise:**  
-<p align="center">
+**💪 Strong Expertise:**
+<p align="center"><picture>
+    <source srcset="./assets/images/rust_white.svg" media="(prefers-color-scheme: dark)">
+    <img src="./assets/images/rust.svg" alt="Rust" width="40" height="40" />
+  </picture>   &nbsp;   <img src="./assets/images/svelte.svg" alt="Svelte" width="40" height="40"/>&nbsp;
   <img src="./assets/images/typescript.svg" alt="TypeScript" width="40" height="40"/> &nbsp;
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40"/> &nbsp;
    <picture>
@@ -42,22 +55,12 @@ Save and manage videos and learning resources.
   <img src="./assets/images/tailwind.svg" alt="Tailwind" width="40" height="40"/> &nbsp;
   <img src="./assets/images/nodejs.svg" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="./assets/images/python.svg" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="./assets/images/fastapi.svg" alt="FastAPI" width="40" height="40"/>&nbsp;
-  <img src="./assets/images/svelte.svg" alt="Svelte" width="40" height="40"/>&nbsp;
-  <img src="./assets/images/hono.svg" alt="Hono" width="40" height="40"/>&nbsp;
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="./assets/images/postgresql.png" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="./assets/images/mongodb.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="./assets/images/flutter.svg" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="./assets/images/laravel.png" alt="Laravel" width="40" height="40"/>&nbsp;
-</p>
-
-**🌱 Growing Expertise:**  
-<p align="center">
-  <picture>
-      <source srcset="./assets/images/rust_white.svg" media="(prefers-color-scheme: dark)">
-      <img src="./assets/images/rust.svg" alt="Rust" width="40" height="40" />
-    </picture>   &nbsp; 
+<img src="./assets/images/hono.svg" alt="Hono" width="40" height="40"/>&nbsp;
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="./assets/images/postgresql.png" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="./assets/images/mongodb.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
+<img src="./assets/images/flutter.svg" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="./assets/images/laravel.png" alt="Laravel" width="40" height="40"/>&nbsp;
     <img src="./assets/images/bun.svg" alt="Bun" width="40" height="40" />
     &nbsp;
     <picture>
@@ -67,11 +70,12 @@ Save and manage videos and learning resources.
     &nbsp;
     <img src="./assets/images/Mojo.svg" alt="Mojo" width="40" height="40" />
     &nbsp;
-    </p>
+</p>
 
 ---
 
-### 📝 Blogs  
+### 📝 Blogs
+
 📖 [Dev.to](https://dev.to/rohit19060)
 
 - [Vitest: Modern Test-Driven Development Made Easy](https://dev.to/rohit19060/vitest-modern-test-driven-development-made-easy-4ec3)
@@ -82,13 +86,14 @@ Save and manage videos and learning resources.
 
 ---
 
-### 🎥 [YouTube Channel](https://www.youtube.com/channel/UCBkOLsuxGJJRVyV2UIK9alQ?sub_confirmation=1)  
-🎬 Tutorials · Projects · Live Coding · Dev Tools  
+### 🎥 [YouTube Channel](https://www.youtube.com/channel/UCBkOLsuxGJJRVyV2UIK9alQ?sub_confirmation=1)
 
-- [Rainmeter Tutorial and Create Your Own Rainmeter Skin](https://www.youtube.com/watch?v=GG7rVrcTSIQ)  
-- [Virtual Assistant using Python](https://www.youtube.com/watch?v=LQr3iyLHiU8)  
-- [Animated Progress Bar | Flutter | Custom Widget](https://www.youtube.com/watch?v=2MksC_X9_Qo)  
-- [Project Initiator using Python](https://www.youtube.com/watch?v=ud4P45zhCk0)  
+🎬 Tutorials · Projects · Live Coding · Dev Tools
+
+- [Rainmeter Tutorial and Create Your Own Rainmeter Skin](https://www.youtube.com/watch?v=GG7rVrcTSIQ)
+- [Virtual Assistant using Python](https://www.youtube.com/watch?v=LQr3iyLHiU8)
+- [Animated Progress Bar | Flutter | Custom Widget](https://www.youtube.com/watch?v=2MksC_X9_Qo)
+- [Project Initiator using Python](https://www.youtube.com/watch?v=ud4P45zhCk0)
 - [Rust Basics and Installation](https://www.youtube.com/watch?v=CW-i0KAGuYI)
 
 ---
@@ -99,8 +104,9 @@ Save and manage videos and learning resources.
 
 ---
 
-### 🤝 Support My Work  
-Your support helps me create more open-source and educational content 💙  
+### 🤝 Support My Work
+
+Your support helps me create more open-source and educational content 💙
 
 <a href="https://github.com/sponsors/Rohit19060/sponsorships?tier_id=162058">
   <img src="https://img.shields.io/badge/Sponsor%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github" alt="Sponsor Me on GitHub" />
@@ -112,7 +118,7 @@ Your support helps me create more open-source and educational content 💙
 ---
 
 <p align="center">
-  Made with ❤️ and curiosity in India  
+  Made with ❤️ and Enthusiasm in India  
   <br />
   📧 <a href="mailto:rohitjain19060@gmail.com">rohitjain19060@gmail.com</a>
 </p>
