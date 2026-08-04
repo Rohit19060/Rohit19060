@@ -42,12 +42,13 @@ Save and manage videos & learning resources
     <source srcset="./assets/images/rust_white.svg" media="(prefers-color-scheme: dark)">
     <img src="./assets/images/rust.svg" alt="Rust" width="40" height="40" />
   </picture>   &nbsp;   <img src="./assets/images/svelte.svg" alt="Svelte" width="40" height="40"/>&nbsp;
-  <img src="./assets/images/typescript.svg" alt="TypeScript" width="40" height="40"/> &nbsp;
+  <img src="./assets/images/typescript.svg" alt="TypeScript" width="40" height="40"/> &nbsp;<img src="./assets/images/Mojo.svg" alt="Mojo" width="40" height="40" />
+  &nbsp;
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40"/> &nbsp;
    <picture>
     <source srcset="./assets/images/nextjs_white.svg" media="(prefers-color-scheme: dark)">
     <img src="./assets/images/nextjs.svg" alt="Next.js" width="40" height="40" />
-  </picture> &nbsp;
+  </picture> &nbsp; 
   <img src="./assets/images/tailwind.svg" alt="Tailwind" width="40" height="40"/> &nbsp;
   <img src="./assets/images/nodejs.svg" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="./assets/images/python.svg" alt="Python" width="40" height="40"/>&nbsp;
@@ -56,7 +57,6 @@ Save and manage videos & learning resources
 <img src="./assets/images/postgresql.png" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 <img src="./assets/images/mongodb.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="./assets/images/flutter.svg" alt="Flutter" width="40" height="40"/>&nbsp;
-<img src="./assets/images/laravel.png" alt="Laravel" width="40" height="40"/>&nbsp;
     <img src="./assets/images/bun.svg" alt="Bun" width="40" height="40" />
     &nbsp;
     <picture>
@@ -64,8 +64,7 @@ Save and manage videos & learning resources
       <img src="./assets/images/deno.svg" alt="Deno" width="38" height="38" />
     </picture>
     &nbsp;
-    <img src="./assets/images/Mojo.svg" alt="Mojo" width="40" height="40" />
-    &nbsp;
+
 </p>
 
 ---
