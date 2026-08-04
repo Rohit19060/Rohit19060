@@ -4,7 +4,7 @@
 
 ### 🧩 Featured Projects
 
-#### 🧩 AARVI — AI Assistant with Real & Virtual Intelligence (Active Development)
+#### 🧩 AARVI - AI Assistant with Real & Virtual Intelligence (Active Development)
 
 A privacy-focused conversational AI assistant built around a Rust core, with web and native desktop interfaces. Bringing social connections, productivity tools, and AI capabilities into one place.
 **Tech:** Rust (Core) · SvelteKit (Web Interface) · GPUI (Desktop UI) · Cloudflare Tunnel
